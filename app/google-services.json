@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "551691725142",
+    "project_id": "clone-instagram-a46ee",
+    "storage_bucket": "clone-instagram-a46ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551691725142:android:488a262b7e1ff749854ef7",
+        "android_client_info": {
+          "package_name": "com.example.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551691725142-184vt4vgckt6l6pgkft19u3itllmdaop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgsM-ZaQoN6pd66fvUT3xf0M7JVWXzC0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551691725142-184vt4vgckt6l6pgkft19u3itllmdaop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551691725142:android:91f856021741c57e854ef7",
+        "android_client_info": {
+          "package_name": "com.example.clone_instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551691725142-dh4ne61rpqg7bdqvrj5rjh3197chmbeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clone_instagram",
+            "certificate_hash": "a63d089257fc3581e6f0717b61e73805fbeff9c6"
+          }
+        },
+        {
+          "client_id": "551691725142-184vt4vgckt6l6pgkft19u3itllmdaop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgsM-ZaQoN6pd66fvUT3xf0M7JVWXzC0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551691725142-184vt4vgckt6l6pgkft19u3itllmdaop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
